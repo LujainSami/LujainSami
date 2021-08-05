@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LujainSami
 - 👀 I’m interested in technology  in general .
 - 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on growing my network.
 - 📫 How to reach me ...
 
 <!---
